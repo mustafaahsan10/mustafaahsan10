@@ -1,3 +1,5 @@
+# Hi There
+
 ## 💫 About Me:
 Hi, I'm Mustafa. I'm passionate about Generative AI and building innovative AI solutions. I'm currently learning MLOps to improve how we develop and deploy AI. I'm always looking for new challenges and exciting AI projects to work on.<br><br><br><br>👯 I’m interested in collaborating on:<br><br>    Projects using LLMs, diffusion models, GANs, and other generative AI.<br>    Applying Generative AI to Safety Critical fields.<br>    Open-source projects that promote responsible AI.<br><br>🌱 I’m currently learning:<br><br>    Kubernetes and Docker for deploying AI.<br>    MLflow and other MLOps tools.<br><br>💬 Ask me about:<br><br>    Generative AI.<br>    MLOps.<br>    Anything related to AI!<br><br>Let's connect!
 
