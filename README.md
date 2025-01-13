@@ -1,4 +1,3 @@
-2.0 Flash Experimental. Might not work as expected.
 
 # 💫 About Me:
 Hi, I'm Mustafa. I'm passionate about Generative AI and building innovative AI solutions. I'm currently learning MLOps to improve how we develop and deploy AI. I'm always looking for new challenges and exciting AI projects to work on.
